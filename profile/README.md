@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/milena-kos/cat-bot/main/cat.png" width="200" />
+<img src="https://raw.githubusercontent.com/milena-kos/cat-bot/main/images/cat.png" width="200" />
